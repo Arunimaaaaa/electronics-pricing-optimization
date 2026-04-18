@@ -1,0 +1,9 @@
+product,base_price,cost_price,base_demand,elasticity
+Laptop,1000,600.0,5,-1.8
+Smartphone,700,420.0,20,-1.6
+Tablet,500,300.0,12,-1.5
+Smartwatch,300,180.0,15,-1.2
+Headphones,150,90.0,25,-1.0
+Bluetooth Speaker,80,48.0,30,-0.9
+Gaming Console,400,240.0,8,-1.4
+Camera,600,360.0,10,-1.3
